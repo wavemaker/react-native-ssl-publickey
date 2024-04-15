@@ -11,11 +11,11 @@
 To install `react-native-ssl-publickey`, you can use npm or yarn:
 
 ```bash
-npm install react-native-ssl-publickey
+npm install @wavemaker/react-native-ssl-publickey
 ```
 or
 ```bash
-yarn add react-native-ssl-publickey
+yarn add @wavemaker/react-native-ssl-publickey
 ```
 
 ---
