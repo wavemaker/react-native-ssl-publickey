@@ -1,6 +1,6 @@
 {
   "name": "@wavemaker/react-native-ssl-publickey",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Module to fetch ssl public key hash",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -21,10 +21,11 @@
     "react-native-ssl-publickey",
     "ReactNativeSslPublickey"
   ],
-  "repository": "https://github.com/wavemaker/react-native-ssl-publickey",
+  "repository": "https://github.com/wavemaker/react-native-ssl-publickey.git",
   "bugs": {
     "url": "https://github.com/wavemaker/react-native-ssl-publickey/issues"
   },
+  "author": "WaveMaker",
   "license": "Apache-2.0",
   "homepage": "https://github.com/wavemaker/react-native-ssl-publickey#readme",
   "dependencies": {},
