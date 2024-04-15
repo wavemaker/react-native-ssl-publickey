@@ -62,7 +62,7 @@ The library utilizes native code to establish a connection with the specified do
 ---
 
 #### Contributing
-Contributions to `react-native-ssl-publickey` are welcome! If you find any bugs or want to suggest improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/rraajvamsy/react-native-ssl-publickey).
+Contributions to `react-native-ssl-publickey` are welcome! If you find any bugs or want to suggest improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/wavemaker/react-native-ssl-publickey).
 
 ---
 

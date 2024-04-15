@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage       = package['homepage']
   s.platforms      = { :ios => '13.0', :tvos => '13.0' }
   s.swift_version  = '5.4'
-  s.source         = { git: 'https://github.com/rraajvamsy/react-native-ssl-publickey' }
+  s.source         = { git: 'https://github.com/wavemaker/react-native-ssl-publickey' }
   s.static_framework = true
 
   s.dependency 'ExpoModulesCore'
